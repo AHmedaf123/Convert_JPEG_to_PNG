@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CONVERT_JPEG_to_PNG
 
 This project contains a simply python script to change file extension from .jpeg to .png
@@ -19,3 +20,6 @@ I accomplished this task in two ways
 Just run the converter_GUI.py script and pick any jpeg image from any location and then press 'Convert Jpeg to Png'
 
 
+=======
+# Convert_JPEG_to_PNG
+>>>>>>> 3cb253397c1f68ea127bcd901db27d1209c2bb3d
